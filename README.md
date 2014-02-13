@@ -2,5 +2,5 @@
 
 **Categories**: Dart, education, exercice
 
-**Description**: L'exercice 04 pour le cours Introduction à la programmation qui comprend 5 problèmes à résoudre.
+**Description**: L'exercice 04 pour le cours Introduction ï¿½ la programmation qui comprend 5 problï¿½mes ï¿½ rï¿½soudre.    Fait par Mathieu Marcotte
 
