@@ -1,0 +1,10 @@
+ex04
+18/20
+
+mettre packages dans .gitignore
+supprimer ex4.gitignore
+
+ex04_4
+2/4
+(-2)Année : 10, Intérêt : 44.20$
+dr: At the end of year 10 value = 1383.58.
